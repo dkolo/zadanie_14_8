@@ -1,0 +1,16 @@
+{
+  "name": "zadanie-14-8",
+  "version": "1.0.0",
+  "description": "GIF search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'GIF'",
+    "'search'",
+    "'giphy'"
+  ],
+  "author": "domin",
+  "license": "ISC"
+}
